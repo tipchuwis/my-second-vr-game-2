@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Stream : MonoBehaviour
 {
+    public float pourSpeed = 0.8f;
+
     private LineRenderer lineRenderer = null;
 
     private Vector3 targetPosition = Vector3.zero;

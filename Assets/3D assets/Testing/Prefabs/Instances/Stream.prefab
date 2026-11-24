@@ -4895,6 +4895,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46be5c0459e46124c9db459c806a120f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pourSpeed: 0.8
 --- !u!120 &5238570228697279500
 LineRenderer:
   serializedVersion: 2
@@ -4921,7 +4922,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 995911e6ae325144696f98258c14f3f2, type: 2}
+  - {fileID: 2100000, guid: dd8b66f4747c4094da9cb80ec701deb9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
